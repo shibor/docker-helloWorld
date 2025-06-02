@@ -1,0 +1,14 @@
+{
+  "name": "helloWorld",
+  "version": "1.0.0",
+  "description": "一个简单的 Docker Web 项目",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "moment-timezone": "^0.6.0",
+    "morgan": "^1.10.0"
+  }
+}
